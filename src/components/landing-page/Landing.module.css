@@ -1,0 +1,14 @@
+.wrap {
+    margin: 0 auto;
+    padding: 0;
+    width: 1000px;
+}
+#banner {
+    /* background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center top; */
+    width: 100%;
+    text-align: center;
+    padding-top: 300px;
+    color: #333;
+}
